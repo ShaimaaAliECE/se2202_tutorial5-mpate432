@@ -4,7 +4,7 @@ In this tutorial, you'll practice working with JS DOM objects and events while c
 The starter code of this tutorial has two files; one of them is an HTML document linked to the other file, which is a JavaScript file. Please keep the HTML file as it is and follow the instructions in the comments of the JS file to complete the game.
 
 # Not auto-graded tests this time
-Please don't expect to see results from an autograded test as there'llbe none this time, instead, we'd look at the behavior of the page after your commit your updates and publish it. 
+Please don't expect to see results from an autograded test as there'llbe none this time, instead, we'd look at the behavior of the page after your commit your updates and publish it.  
 
 # Use GitHub Pages to publish the site.
 After you commit and push your changes, 
